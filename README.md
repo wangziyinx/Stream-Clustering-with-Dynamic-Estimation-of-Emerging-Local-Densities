@@ -18,5 +18,7 @@ To run the algorithm after buiding:
 C=MT(D', pf, theta);
 
 D: input data. It must be double. D is a n by d matarix, the input is d by n matrix.
+
 pf: minimun density ratio to form a sufficient kernel.
+
 theta: kernel size (radius). Note that this value is negative. If your kernel size is 10, then theta = -10.
