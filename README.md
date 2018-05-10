@@ -1,4 +1,4 @@
-# Stream-Clustering-with-Dynamic-Estimation-of-Emerging-Local-Densities
+# Stream Clustering with Dynamic Estimation of Emerging Local Densities (ELD)
 
 This is the implementation of paper:
 Ziyin Wang, Gavriil Tsechpenakis. " Stream Clustering with Dynamic Estimation of Emerging Local Densities", ICPR 2018.
